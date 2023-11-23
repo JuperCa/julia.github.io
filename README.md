@@ -1,12 +1,13 @@
-# Científico de Datos/Analista de Datos
+# Portfolio
 
 ### Experiencia Laboral
 - Empresa1
 - Empresa2
 
 ### Proyectos
-- Proyecto1
-- Proyeco2
+- ¿Cómo hacer agregaciones en Pandas?
+  Se analiza la sintaxis principal para hacer agregaciones con Pandas.
+- Proyecto2
 
 ### Publicaciones
 
