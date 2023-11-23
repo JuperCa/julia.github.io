@@ -1,10 +1,9 @@
 <center><h1>Portfolio</h1></center>
-### Social Media Analytics
+### Agregaciones con Pandas
 
-My complete implementation of assignments and projects in [***Social Media Analytics***](https://elearning.unimib.it/course/info.php?id=44573) by UniMiB (2023).
-
+Se analiza la sintaxis principal para hacer agregaciones con Pandas.
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Social%20Media%20Analytics/Report_SMA.pdf)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Social%20Media%20Analytics)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](agregaciones/notebooks/Aggregations.ipynb)
 
 **Smart Working - Social Network and Content analysis**: social media analytics project realized with `.py`
 
