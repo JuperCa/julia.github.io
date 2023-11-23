@@ -1,13 +1,13 @@
 <center><h1>Portfolio</h1></center>
-### Agregaciones con Pandas
-
-Se analiza la sintaxis principal para hacer agregaciones con Pandas.
+### Analisis de Fuga de clientes de una inmobiliaria
+Aqui se añade el contexo o la motivación. Este proyecto formó parte de una presentacion del curso de Ciencia de Datos en el año 2023
+.
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](agregaciones/pdf/agreg.pdf)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/JuperCa/julia.github.io/tree/main/agregaciones)
 
-**Smart Working - Social Network and Content analysis**: social media analytics project realized with `.py`
+**Churn Analysis - Red Piso**: Ánalisis descriptivo/predictivo de fuga de clientes...
 
-<p style="color:#727272">This project focuses on the analysis of the Twitter community and sentiment regarding the enunciated topic. Through the API, 2667 tweets related to the selected keywords were collected from December 26, 2022 to January 5, 2023. After an initial preprocessing phase based on text mining techniques, a Social Network Analysis (Nodes Degree, Assortativity, Community Detection) and a Social Content Analysis (Sentiment Analysis, Emotion Recognition) were performed.</p>
+<p style="color:#727272">Aqui va un resumen del proyecto con los principales resutlados</p>
 
 <center><img src ="./images/projects/SMA_network.png" alt="SMAn"></center>
 
