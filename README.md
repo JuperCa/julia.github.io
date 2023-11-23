@@ -2,7 +2,7 @@
 ### Analisis de Fuga de clientes de una inmobiliaria
 Aqui se añade el contexo o la motivación. Este proyecto formó parte de una presentacion del curso de Ciencia de Datos en el año 2023
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](agregaciones/pdf/agreg.pdf)
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](practica_github/pdf)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/JuperCa/julia.github.io/tree/main/agregaciones)
 
 **Churn Analysis - Red Piso**: Ánalisis descriptivo/predictivo de fuga de clientes...
@@ -12,8 +12,8 @@ Aqui se añade el contexo o la motivación. Este proyecto formó parte de una pr
 <center><img src ="agregaciones/img/4_1.png" alt="SMAn"></center>
 
 
-### Analisis de Fuga de clientes de una inmobiliaria
-Aqui se añade el contexo o la motivación. Este proyecto formó parte de una presentacion del curso de Ciencia de Datos en el año 2023
+### Valoración de variación de características del vino tinto producido en La Rioja en el año 2022
+Aqui se añade el contexo o la motivación. Este proyecto formó parte de una práctica realizada en el curso de Ciencia de Datos.
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](agregaciones/pdf/agreg.pdf)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/JuperCa/julia.github.io/tree/main/agregaciones)
