@@ -3,7 +3,7 @@
 
 Se analiza la sintaxis principal para hacer agregaciones con Pandas.
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Social%20Media%20Analytics/Report_SMA.pdf)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](agregaciones/notebooks)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/JuperCa/julia.github.io/tree/main/agregaciones)
 
 **Smart Working - Social Network and Content analysis**: social media analytics project realized with `.py`
 
