@@ -20,7 +20,7 @@ Este proyecto formó parte de una práctica realizada en el curso de Ciencia de 
 
 **Churn Analysis - Actividades**: Normativa que debe seguirse para desarrollar la Ciencia de Datos
 
-<p style="color:#727272">Aqui va un resumen del proyecto con los principales resutlados</p>
+<p style="color:#727272">Las normativa aplicable al campo de la Data Science proviene del ámbito regulatorio y ético y deben ser observadas desde todos los niveles jerárquicos en el desempeño de las actividades inherentes a esta disciplina  </p>
 
 <center><img src ="practica_github/imagen/imagen1.PNG" alt="SMAn"></center>
 
