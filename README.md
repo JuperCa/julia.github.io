@@ -12,8 +12,8 @@ Aqui se añade el contexo o la motivación. Este proyecto formó parte de una pr
 <center><img src ="agregaciones/img/4_1.png" alt="SMAn"></center>
 
 
-### Valoración de variación de características del vino tinto producido en La Rioja en el año 2022
-Aqui se añade el contexo o la motivación. Este proyecto formó parte de una práctica realizada en el curso de Ciencia de Datos.
+### Ciencia de Datos y Abogados 
+Este proyecto formó parte de una práctica realizada en el curso de Ciencia de Datos.
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](practica_github/pdf/DS Y ABOGADOS - final (1).pdf)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([practica_github/pdf](https://github.com/JuperCa/julia.github.io/tree/main/practica_github/notebooks))
